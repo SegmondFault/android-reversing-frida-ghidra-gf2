@@ -12,6 +12,7 @@ The goal was to recover a valid password and understand the checking logic well 
 - Frida: live instrumentation of the running Android app
 - ADB: app launch, input automation, and interaction with the emulator/device
 - Python: orchestration, probing, matrix construction, and GF(2) solving
+- GPT 5.4: for its ability to spot and specify important funcs and data in the disassembly 
 
 ## Method
 
